@@ -1,0 +1,93 @@
+body {
+    margin: 0%;
+    text-align: center;
+    font-family: 'Merriweather', serif;
+
+}
+.top  { 
+    background-color: #11999E;
+    padding-top: 100px;
+    position: relative;
+}
+h1 {
+    display: block;
+    font-family: 'Montez', cursive;
+    font-size: 3.75rem;
+    margin: 50px auto 0 auto;
+    color : #F2F2F2 ;
+}
+h2.spec {
+    color: #D9E4DD;
+    font-family: 'Montaga', serif; 
+    font-size: 2rem;
+
+}
+h2 {
+    color: #1597E5;
+    font-family: 'Montaga', serif; 
+    font-size: 2rem; } 
+
+h3 { 
+    color: #11999E;
+    font-family: 'Merriweather', serif;
+    font-weight: normal;
+}
+p {
+    font-family: 'Oswald', sans-serif;
+}
+
+.bottom_cloud {
+    position: absolute;
+    top: 300px;
+    left: 300px;
+    
+}
+.pict 
+{ 
+    margin-top: 50px;
+    width: 250px;
+}
+
+
+.top_cloud { 
+    position: absolute;
+    right: 250px; 
+    top: 50px;
+}
+.middle-container {
+    background-color: #DDE7F2;
+
+}
+
+
+.pr-solv {
+    border-radius: 50%;
+    width: 300px;
+}
+
+
+.des-dev { 
+    border-radius: 50% ; 
+    width: 300px;
+}
+.bottom-container { 
+    padding-top:30px ;
+    background-color: #E4F9F5;
+}
+a {
+    color: #0060B6;
+    text-decoration: none;
+}
+
+a:hover {
+    color:#11999E; 
+    text-decoration:none; 
+    cursor:pointer;  
+}
+.footer-link {
+    padding: 0 10px;
+}
+.mountain { 
+    margin-top: 100px;
+
+}
